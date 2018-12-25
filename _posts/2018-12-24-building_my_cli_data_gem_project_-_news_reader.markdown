@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Building my CLI Data Gem Project - News Reader**"
-date:       2018-12-25 03:51:16 +0000
+title:      "Building my CLI Data Gem Project - Command Line News Reader**"
+date:       2018-12-24 22:51:17 -0500
 permalink:  building_my_cli_data_gem_project_-_news_reader
 ---
 
