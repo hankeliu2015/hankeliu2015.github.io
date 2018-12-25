@@ -11,4 +11,6 @@ When I started working on my first Ruby Gem CLI command line project, I realized
 to be continued  ...
 
 
-![](https://drive.google.com/file/d/1BXwAY0Ryhx95kDsaMpzGCMGoJpsjy04d/view?usp=sharinghttp://)
+![](https://drive.google.com/file/d/1BXwAY0Ryhx95kDsaMpzGCMGoJpsjy04d/view?usp=sharing)
+
+![](https://imgur.com/6rpTpzk)
