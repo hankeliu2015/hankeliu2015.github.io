@@ -6,11 +6,11 @@ permalink:  building_my_cli_data_gem_project_-_news_reader
 ---
 
 
-When I started working on my first Ruby Gem CLI command line project, I realized the Coding part was challenging, but many follow students troubled by some prep work,  such as bundler install, lack of a clear ideas on files dependency and Gem deployment. This article going to use an narrow down approach to guide through the Gem install, establish files dependency, Ruby coding, Gem publishing and deployment. Hope this will help future programmers who working on similar projects. 
+When I started working on my first Ruby Gem CLI command line project, I realized the coding part was challenging, but many follow students also troubled by some prep work,  such as bundler install, lack of a clear ideas on files dependency and Gem deployment. This article going to use an narrow down approach to guide through the Gem install, establish files dependency, Ruby coding, Gem publishing and deployment. Hope this will help future programmers who working on similar projects. 
 
-can not load image. to be continued  ...
+Read more  ...
 
 
-![](https://drive.google.com/file/d/1BXwAY0Ryhx95kDsaMpzGCMGoJpsjy04d/view?usp=sharing)
+https://medium.com/@hanke.liu/build-a-ruby-gem-command-line-interface-news-reader-e881eaad161d
 
-![](https://imgur.com/6rpTpzk)
+
