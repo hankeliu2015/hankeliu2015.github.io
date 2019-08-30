@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Redux Dispatch — launch multiple dispatch functions"
-date:       2019-08-30 19:33:09 +0000
+date:       2019-08-30 15:33:10 -0400
 permalink:  redux_dispatch_launch_multiple_dispatch_functions
 ---
 
