@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "How to Access Hacker News APIs with Redux Dispatch and Redux-Thunk"
-date:       2019-08-29 22:18:38 +0000
+title:      "Access Hacker News APIs and Dispatch Multiple Actions From One Action"
+date:       2019-08-29 18:18:39 -0400
 permalink:  how_to_access_hacker_news_apis_with_redux_dispatch_and_redux-thunk
 ---
 
